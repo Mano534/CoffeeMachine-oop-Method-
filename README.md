@@ -7,10 +7,9 @@ small coffee machine system using dart
   3. acessories (getter and setters)
   
 ## benefits of oop
-  . scalability
-  . encapsolation 
-  . reuse 
-  
+  .scalability
+  .encapsolation 
+  .reuse 
   
 #### About
-  "simple system for a coffee machine based on system requirements paper"
+  *simple system for a coffee machine based on system requirements paper*
